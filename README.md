@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -63,4 +63,4 @@
   <small>Págia de teste, será sempre atualizada.</small>
 
 </body>
-
+</html>
