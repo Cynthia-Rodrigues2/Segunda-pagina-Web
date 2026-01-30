@@ -17,8 +17,7 @@
   <p>Uma página HTML não é uma linguagem de programação, mas sim uma linguagem de marcação para estruturar o conteúdo da página web. Junto ao CSS (design da página) e ao JavaScript    (interação do usuário com a página), teremos algo bonito e interativo.</p>  
 
   <br>
-
-  <body>
+<body>
 
 <h2> Tabela de comparação </h2>
 
@@ -28,17 +27,17 @@
 <tr>
  
 <td> HTLML </td> 
-<td> Linguagem de marcação hipertexto </td>
+<td> Estrutura </td>
 </tr> 
 
 <tr>
 <td> CSS </td> 
-<td> Design da página </td> 
+<td> Estilização </td> 
 </tr>
 
 <tr>
 <td> JavaScript </td>
-<td> Interação da página </td> 
+<td> Interação </td> 
 </tr> 
 
 <tbody>
@@ -55,12 +54,12 @@
 <br>
 
   <h2>Mas o que é uma página web?</h2>
-  <p>Uma página web é a resposta do servidor para o usuário. Exemplo: quando você envia ao Google alguma pergunta e ele retorna com a página da Wikipédia, a própria Wikipédia é uma página web.</p>
+  <p>Uma página web é a resposta do servidor para o usuário. Exemplo: quando você (usúario) envia ao Google (servidor) alguma pergunta ou simples busca e ele retorna com a página da Wikipédia, a própria Wikipédia é uma página web.</p>
 
   <br> 
 
   <p><i><strong>Bom, essa é minha segunda página web. A primeira foi o famoso "Olá mundo"😁. Espero que tenha gostado.</strong></i></p>
-  <small>Págia de teste, será sempre atualizada.</small>
+  <small>Págia teste, será sempre atualizada.</small>
 
 </body>
 </html>
