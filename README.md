@@ -101,7 +101,6 @@
 <hr>
 
   <p><i><strong>Bom, essa é minha segunda página web. A primeira foi o famoso "Olá mundo"😁. Espero que tenha gostado.</strong></i></p>
-  <small>Págia teste, será sempre atualizada.</small>
 
 </body>
 </html>
